@@ -1,0 +1,1 @@
+Screenshots for an extranet project using PHP MySQL CSS and HTML. With user registration, login, user info change system, display of bank actors and comments and likes system.
